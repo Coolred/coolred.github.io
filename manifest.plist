@@ -27,7 +27,7 @@
 				<key>bundle-identifier</key>
 				<string>com.ettoday.ETNews</string>
 				<key>bundle-version</key>
-				<string>5.0.9</string>
+				<string>5.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
